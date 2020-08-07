@@ -1,8 +1,8 @@
 # Changelog
 
-All notable changes to SilverStrike will be documented here.
+All notable changes to jesFinance will be documented here.
 
-## [Unreleased](https://github.com/agstrike/silverstrike/compare/0.1.3...master)
+## [Unreleased](https://github.com/agstrike/jesFinance/compare/0.1.3...master)
 ### Added
 * Format large numbers to make them easier to read
 * Add DKB, Volksbank, PC Mastercard and ofx importers
@@ -15,7 +15,7 @@ All notable changes to SilverStrike will be documented here.
 ### Fixed
 * Return 404 instead of 500 when using an incorrect account url
 
-## [0.1.3](https://github.com/agstrike/silverstrike/releases/tag/0.1.3) - 2018-05-15
+## [0.1.3](https://github.com/agstrike/jesFinance/releases/tag/0.1.3) - 2018-05-15
 
 ### Added
 * Add view to assign categories to multiple splits at once
@@ -28,7 +28,7 @@ All notable changes to SilverStrike will be documented here.
 * Weekly recurrences
 
 
-## [0.1.1](https://github.com/agstrike/silverstrike/releases/tag/0.1.1) - 2018-02-03
+## [0.1.1](https://github.com/agstrike/jesFinance/releases/tag/0.1.1) - 2018-02-03
 
 ### Added
 * Baisc REST API based on django-rest-framework #19
@@ -50,6 +50,6 @@ All notable changes to SilverStrike will be documented here.
 * Support for all Django versions below 2.0
 * Ability to sign up using social accounts
 
-## [0.1.0](https://github.com/agstrike/silverstrike/releases/tag/0.1.0) - 2017-12-09
+## [0.1.0](https://github.com/agstrike/jesFinance/releases/tag/0.1.0) - 2017-12-09
 
 Initial release

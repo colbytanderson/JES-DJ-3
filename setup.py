@@ -9,24 +9,24 @@ def get_version():
     """
     Return package version as listed in `__version__` in `init.py`.
     """
-    init_py = open(path.join(here, 'silverstrike', '__init__.py')).read()
+    init_py = open(path.join(here, 'jesFinance', '__init__.py')).read()
     return re.search("__version__ = ['\"]([^'\"]+)['\"]", init_py).group(1)
 
 
 version = get_version()
-long_description = """SilverStrike is a Django based webapp to help you
+long_description = """jesFinance is a Django based webapp to help you
 manage your personal finances.
 """
 
 setup(
-    name='silverstrike',
+    name='jesFinance',
     version=version,
     description='Django webapp to manage personal finances',
     long_description=long_description,
     author='Simon Hanna',
-    url='https://github.com/agstrike/silverstrike',
+    url='https://github.com/agstrike/jesFinance',
     license='MIT',
-    packages=['silverstrike'],
+    packages=['jesFinance'],
     include_package_data=True,
     install_requires=[
         'django>=2.2',

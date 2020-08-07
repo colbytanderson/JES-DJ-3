@@ -1,8 +1,8 @@
 [run]
-source = silverstrike 
+source = jesFinance 
 omit =
-  silverstrike/migrations/*.py
-  silverstrike/tests/*.py
+  jesFinance/migrations/*.py
+  jesFinance/tests/*.py
 
 [html]
 directory = coverage

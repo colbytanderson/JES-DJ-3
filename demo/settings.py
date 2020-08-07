@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     'widget_tweaks',
-    'silverstrike',
+    'jesFinance',
     'allauth',
     'allauth.account',
     'rest_framework',
@@ -149,7 +149,7 @@ LOGOUT_URL = 'account_logout'
 ACCOUNT_LOGOUT_REDIRECT_URL = 'account_login'
 
 # Uncomment to prevent signup
-# ACCOUNT_ADAPTER = 'silverstrike.models.SignupDisabledAdapter'
+# ACCOUNT_ADAPTER = 'jesFinance.models.SignupDisabledAdapter'
 
 #APPEND_SLASH = False
 

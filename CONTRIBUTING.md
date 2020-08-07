@@ -1,4 +1,4 @@
-# Contributing to SilverStrike
+# Contributing to jesFinance
 
 Thanks for concidering to contribute! Even if not explicitly said, it's appreciated!
 
@@ -19,16 +19,16 @@ Explain the problem and include additional details to help reproduce the problem
 * **Explain which behavior you expected to see instead and why.**
 * **Include screenshots** if you think they are helpful
 * **If you're reporting that an unhandled exception**, include a stack trace. If it's rather small, include it in the issue itself. Otherwise please attach it as a file or paste the content to some pasting service like [dpaste](https://dpaste.de)
-* **Can you reproduce the problem in the [demo](https://demo.silverstrike.org)?**
+* **Can you reproduce the problem in the [demo](https://demo.jesFinance.org)?**
 
 ### Translation
 
-Translation is done using [crowdin](https://crowdin.com/project/silverstrike). You should be able to translate and suggest translations for existing languages right after creating an account there. If you would like to rights to approve suggestions for specific languages or add entirely new languages, don't hesitate to contact me on crowdin.
+Translation is done using [crowdin](https://crowdin.com/project/jesFinance). You should be able to translate and suggest translations for existing languages right after creating an account there. If you would like to rights to approve suggestions for specific languages or add entirely new languages, don't hesitate to contact me on crowdin.
 
 
 ### Feature Requests
 
-I'm always looking for good features to add to SilverStrike. Before creating a new issue for it try searching the existing issues labled `feature-request`. If you found it, use the thumbs up and add comments if you want to detail something specific. Otherwise open a new issue.
+I'm always looking for good features to add to jesFinance. Before creating a new issue for it try searching the existing issues labled `feature-request`. If you found it, use the thumbs up and add comments if you want to detail something specific. Otherwise open a new issue.
 
 * **Use a clear and descriptive title** for the issue to identify the suggestion.
 * **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
