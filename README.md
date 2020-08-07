@@ -1,6 +1,4 @@
 # jesFinance
-[![Actions Status](https://github.com/agstrike/jesFinance/workflows/Test%20and%20Lint/badge.svg)]
-[![codecov](https://codecov.io/gh/agstrike/jesFinance/branch/master/graph/badge.svg)]
 
 Webapp based on Django to manage personal finances
 
